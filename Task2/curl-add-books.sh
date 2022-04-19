@@ -1,0 +1,1 @@
+curl -X POST "http://library.demo.local/api/v1/books" -H "X-API-KEY: cisco|HiGju-lQL0d6p6HNez20DrS-JQ1bUPV9t78_KG9_III"-H "accept: application/json" -H "Content-Type: application/json" -d "{ \"id\": 4, \"title\": \"string\", \"author\": \"string\"}"
