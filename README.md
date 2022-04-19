@@ -70,3 +70,17 @@ Bestaande scripts aanpassen (zie uploads) Nodig voor aanpassing:
 Access_Token (via developer.webex.com)
 Room_ID
 Person_email
+
+
+Opmerkingen: 
+Probleem wat vaak voorkwam mbt pushen van data: 
+error: failed to push some refs to 'https://github.com/Svesto/Devasc_Skills.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Oplossing: 
+git pull --rebase https://github.com/Svesto/Devasc_Skills
+hierdoor wordt het terug mogelijk om data te pushen
