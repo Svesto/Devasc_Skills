@@ -10,7 +10,7 @@ folium
 Gebruik maken van python/jupyter/visual studio code
 
 Task 2: 
-Directory van locale python environment
+Directory van locale python environment.
 
 Which python3 o /usr/bin/python3
 Virtuele omgeving maken voor Python3:
@@ -45,6 +45,8 @@ Authorization  Type = API key
 Key = X-API-KEY  (opgehaald hierboven)
 Body = raw knop  text veranderen naar JSON
 JSON object toevoegen (naar keuze, in JSON format)
+
+
 
 Task 3: 
 
