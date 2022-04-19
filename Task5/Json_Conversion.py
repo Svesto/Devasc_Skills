@@ -61,7 +61,7 @@ for v5 in v1["rack"]:
     print('------5A--------')
     print(type(v5))
     print(v5)
-    #print(v5["server"]["services"][0]["service"])
+    print(v5["server"]["services"][0]["service"])
     print(v5["server"]["os"])
     for v6 in v5["server"]["services"]:
         print(v6["service"], v6["port"])
