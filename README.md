@@ -14,11 +14,16 @@ Geüpdatete Linux
 
 Gebruik maken van python/jupyter/visual studio code
 
+
+
+## Taak oplossen van problemen
+Probleem: Niet de juiste versie van IDLE Shell gebruiken
+Oplossing: Gebruik Versie met Pythong 3.8
+![image](https://user-images.githubusercontent.com/99889045/166420485-9cc217db-df6e-454b-ae5a-888083a074fb.png)
+
+## Taakverificatie
 ![image](https://user-images.githubusercontent.com/99889045/166420214-8cfabd26-e97f-4655-bb5e-f3080bb3918d.png)
 
-
-## Taak oplossen van van problemen
-## Taakverificatie
 # Task 2: Explore Python development tool and REST APIs
 ## Taakvoorbereiding en taakimplementatie
 Directory van locale python environment.
