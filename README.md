@@ -1,15 +1,17 @@
 # Devasc_Skills
 
 # Task 1: Python experiments
-
+## Taakvoorbereiding en taakimplementatie
 Prerequisites:
 Geopy
 datetime
 folium
 
 Gebruik maken van python/jupyter/visual studio code
-
-Task 2: 
+## Taak oplossen van van problemen
+## Taakverificatie
+# Task 2: Explore Python development tool and REST APIs
+## Taakvoorbereiding en taakimplementatie
 Directory van locale python environment.
 
 Which python3 o /usr/bin/python3
@@ -46,10 +48,11 @@ Key = X-API-KEY  (opgehaald hierboven)
 Body = raw knop  text veranderen naar JSON
 JSON object toevoegen (naar keuze, in JSON format)
 
+## Taak oplossen van van problemen
+## Taakverificatie
 
-
-Task 3: 
-
+# Task 3: Github Skills
+## Taakvoorbereiding en taakimplementatie
 mkdir voor de verschillende mappen
 
 git init: map initialiseren bestand aanmaken + stagen : git add readme.md git commit -m "bericht" : uploadn van het bestand
@@ -59,11 +62,13 @@ nieuwe repo koppelen aan github repo: git remote add origin https://github.com/S
 uploaden:
 
 git push origin master
+## Taak oplossen van van problemen
+## Taakverificatie
 
-Task 4: 
-Taaknaam: Task 4 Webex Teams API
+# Task 4: Webex Teams API
 
-Taakvoorbereiding en Taakimplementatie: Prerequisites:
+## Taakvoorbereiding en taakimplementatie: 
+Prerequisites:
 
 python3
 Implementatie:
@@ -86,3 +91,11 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 Oplossing: 
 git pull --rebase https://github.com/Svesto/Devasc_Skills
 hierdoor wordt het terug mogelijk om data te pushen
+
+## Taak oplossen van van problemen
+## Taakverificatie
+
+# Task 5: Data Format Conversion
+## Taakvoorbereiding en taakimplementatie:
+## Taak oplossen van van problemen
+## Taakverificatie
