@@ -3,11 +3,20 @@
 # Task 1: Python experiments
 ## Taakvoorbereiding en taakimplementatie
 Prerequisites:
-Geopy
-datetime
-folium
+* Geopy
+* datetime
+* folium
+
+Installeren met pip install 
+Geüpdatete Linux
+* sudo apt-get update
+* sudo apt-get upgrade
 
 Gebruik maken van python/jupyter/visual studio code
+
+![image](https://user-images.githubusercontent.com/99889045/166420214-8cfabd26-e97f-4655-bb5e-f3080bb3918d.png)
+
+
 ## Taak oplossen van van problemen
 ## Taakverificatie
 # Task 2: Explore Python development tool and REST APIs
