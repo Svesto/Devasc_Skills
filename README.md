@@ -65,8 +65,9 @@ Prerequisites:
 * Scripts te vinden onder taak 3
 * Room_ID (via script)
 * Person_email (via script)
+* Visual Studio Code
 
-## Taak oplossen van van problemen 
+## Taak oplossen van problemen 
 Probleem wat vaak voorkwam mbt pushen van data: 
 error: failed to push some refs to 'https://github.com/Svesto/Devasc_Skills.git'
 hint: Updates were rejected because the remote contains work that you do
@@ -86,5 +87,13 @@ hierdoor wordt het terug mogelijk om data te pushen
 
 # Task 5: Data Format Conversion
 ## Taakvoorbereiding en taakimplementatie:
-## Taak oplossen van van problemen
+Prerequisites:
+* VM machine voor DEVASC-skills
+* python3
+* Python script --> https://github.com/wleppens/PythonExperiments/edit/main/json/json_convert.py
+* Aanpassing van script door print statements
+
+## Taak oplossen van problemen
+Commentaar weghalen, en print statements toevoegen
 ## Taakverificatie
+https://github.com/Svesto/Devasc_Skills/tree/master/Task5
