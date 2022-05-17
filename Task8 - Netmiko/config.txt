@@ -1,0 +1,9 @@
+!
+config t
+!
+int gig 1/0/1
+switchport mode access
+switchport acces vlan 10
+description **Sven is de beste**
+exit
+!
