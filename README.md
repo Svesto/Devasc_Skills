@@ -98,3 +98,51 @@ Prerequisites:
 Commentaar weghalen, en print statements toevoegen
 ## Taakverificatie
 https://github.com/Svesto/Devasc_Skills/tree/master/Task5
+
+
+# Task 7: Network Documenttion
+## Taakvoorbereiding en taakimplementatie: 
+Tekeningsoftware: Draw-io = https://app.diagrams.net/
+VLAN-segmentatie: 
+* Bepaling hoeveelheid VLANs
+* Logische verdeling
+* Bepaling IP-ranges
+
+### Guide Draw-io
+* Draw-io docx file
+
+## Taak oplossen van problemen
+N.V.T.
+
+## Taakverificatie
+Implementatie werkt op live systeem
+
+# Task 8: Netmiko
+## Taakvoorbereiding en taakimplementatie
+Prerequisites: 
+* Visual Studio Code
+* Python v3.8
+* VM machine voor DEVASC-skills
+* User: Admin
+* Pass: cisco
+* IP-adres: 192.168.10.97
+
+Config bestand: https://github.com/Svesto/Devasc_Skills/blob/master/Task8%20-%20Netmiko/config.txt
+Script: https://github.com/Svesto/Devasc_Skills/blob/master/Task8%20-%20Netmiko/configpush_via_txt.py
+
+## Taak oplossen van problemen
+Bepaling van IP-adres: 
+* WIFI uit
+* cmd: ipconfig /all, default gateway --> ip-adres switch
+
+Juiste statements voor running config: 
+* running=cisco_Switch.send_command("show run")
+
+## Taakverificatie
+Script: 
+* running=cisco_Switch.send_command("show run")
+* print (running)
+Resultaat: configuratie van config.txt is toegepast 
+https://github.com/Svesto/Devasc_Skills/blob/master/Task8%20-%20Netmiko/Task%208%20result.png
+
+
